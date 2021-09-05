@@ -1,7 +1,5 @@
 ## Hola, soy Jose! 👋 
-Soy técnico de sistemas y, actualmente, estoy ampliando mis conocimientos sobre herramientas de orquestación <b>(Puppet y Ansible)</b> y <b>GNU/Linux.</b> También me estoy inicializando en el uso de Terraform e interesado en el uso de orquestadores como Kubernetes. 
-
-He tenido la oportunidad de realizar mis prácticas en [STRSISTEMAS](https://www.strsistemas.com/), pudiendo administrar infraestructuras completamente automatizadas y montadas en diferentes Clouds, como:
+Me acabo de titular en el CFGS de <b>Administración de sistemas informáticos en red o ASIR<b/>. He tenido la oportunidad de realizar las prácticas del ciclo en [STRSISTEMAS](https://www.strsistemas.com/), pudiendo tocar y apreciar infraestructuras completamente automatizadas y montadas en diferentes Clouds, como:
 <b>
  - AWS
  - Azure
@@ -16,7 +14,10 @@ Entre éstas, AWS y Azure son con las que más me he familiarizado, tocando tamb
  - Nagios
  - Diferentes servicios cloud </b>(buckets, balanceadores, IAM, instancias, ...)
 
-Gracias a todo lo aprendido en STR, he podido aplicar los conocimientos necesarios para mi TFG, al cual le he llamado [Mordiscos](https://github.com/joseaeltala/mordiscos) <b>(calificado con una mención honorífica)</b>, entrando en este mundillo con muchas ganas! 💪🏻
+Gracias a todo lo aprendido en STR, he podido aplicar los conocimientos necesarios para mi TFG, al cual le he llamado [Mordiscos](https://github.com/joseaeltala/mordiscos) <b>(calificado con una mención honorífica)</b> entrando en el mundo de **SRE** con muchas ganas! 💪🏻
+
+Actualmente, estoy ampliando mis conocimientos en base a este **[ROADMAP](https://roadmap.sh/devops)**. Me estoy inicializando en el uso de <b>Terraform</b> y como próximo objetivo <b>Kubernetes</b>
+
 
 ## Tecnologías
 
@@ -30,4 +31,6 @@ Estas son algunas de las tecnologías con las que estoy más familiarizado:
 
 ## Contacto
 
-Puedes encontrarme en [LinkedIn <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25" height="25" align="top"/>](https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-ael-talavera-5a59191b3) o enviarme un correo a [joseaeltala@outlook.es <img src="https://img.icons8.com/ios-filled/452/apple-mail.png" width="28" height="28" align="top"/>]( mailto:joseaeltala@outlook.es?cc=joseaeltala@gmail.com)!
+Puedes encontrarme en:
+ - Mi perfil de [LinkedIn <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25" height="25" align="top"/>](https://www.linkedin.com/in/Joseaeltala)
+ - Enviarme un correo a [joseaeltala@outlook.es <img src="https://img.icons8.com/ios-filled/452/apple-mail.png" width="28" height="28" align="top"/>]( mailto:joseaeltala@outlook.es?cc=joseaeltala@gmail.com)!
