@@ -14,7 +14,7 @@ Entre éstas, AWS y Azure son con las que más me he familiarizado, tocando tamb
  - Nagios
  - Diferentes servicios cloud </b>(buckets, balanceadores, IAM, instancias, ...)
 
-Gracias a todo lo aprendido en STRSISTEMAS, he podido aplicar los conocimientos necesarios para mi TFG, al cual le he llamado [Mordiscos](https://github.com/joseaeltala/mordiscos) <b>(calificado con una mención honorífica)</b> entrando en el mundo de **SRE** con muchas ganas! 💪🏻
+Gracias a todo lo aprendido en STRSISTEMAS, he podido aplicar los conocimientos necesarios para mi TFG, al cual le he llamado [Mordiscos](https://github.com/joseaeltala/mordiscos) <b>(calificado con una mención honorífica)</b>, entrando en el mundo de **SRE** con muchas ganas! 💪🏻
 
 Actualmente, estoy ampliando mis conocimientos en base a este **[ROADMAP](https://roadmap.sh/devops)**. Me estoy inicializando en el uso de <b>Terraform</b> y como próximo objetivo <b>Kubernetes</b>
 
