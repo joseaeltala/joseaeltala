@@ -1,23 +1,4 @@
 ## Hola, soy Jose! 👋 
-Me acabo de titular en el CFGS de <b>Administración de sistemas informáticos en red o ASIR<b/>. He tenido la oportunidad de realizar las prácticas del ciclo en [STRSISTEMAS](https://www.strsistemas.com/), pudiendo tocar y apreciar infraestructuras completamente automatizadas y montadas en diferentes Clouds, como:
-<b>
- - AWS
- - Azure
- - OVH
- - GCP</b>
-
-Entre éstas, AWS y Azure son con las que más me he familiarizado, tocando también distintos servicios, herramientas y tecnologías, siendo las más destacadas las siguientes:
- <b>
- - GNU/Linux
- - Ansible
- - Docker
- - Nagios
- - Diferentes servicios cloud </b>(buckets, balanceadores, IAM, instancias, ...)
-
-Gracias a todo lo aprendido en STRSISTEMAS, he podido aplicar los conocimientos necesarios para mi TFG, al cual le he llamado [Mordiscos](https://github.com/joseaeltala/mordiscos) <b>(calificado con una mención honorífica)</b>, entrando en el mundo de **SRE** con muchas ganas! 💪🏻
-
-Actualmente, estoy ampliando mis conocimientos en base a este **[ROADMAP](https://roadmap.sh/devops)**, inicializando en el uso de <b>Kubernetes</b>.
-
 
 ## Tecnologías
 
